@@ -1,0 +1,33 @@
+{
+  "name": "dynamic-routes-and-advanced-model",
+  "version": "1.0.0",
+  "description": "\"Dynamic-Routes\", \"Advanced-Model\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chukwutem-emi/Dynamic-Routes-And-Advanced-Model.git"
+  },
+  "keywords": [
+    "\"Dynamic-Routes\"",
+    "\"Advanced-Model\""
+  ],
+  "author": "Chukwutem Stephen Emi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chukwutem-emi/Dynamic-Routes-And-Advanced-Model/issues"
+  },
+  "homepage": "https://github.com/chukwutem-emi/Dynamic-Routes-And-Advanced-Model#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "ejs": "^3.1.10",
+    "express": "^5.2.1",
+    "pug": "^3.0.3"
+  }
+}
